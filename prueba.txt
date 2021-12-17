@@ -1,2 +1,2 @@
 Esta es una prueba de Git
-esta es una cuarta version de este archivo
+Es una nueva version despues de checkout
