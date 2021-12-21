@@ -1,12 +1,36 @@
 body
 {
     text-align: center;
+<<<<<<< HEAD
     font-family: "Courier";
     color:black;
+=======
+    font-family: "Arial";
+    color: black;
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#cabecera #tagline
+{
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0 0 0 1em;
+    font-weight: normal;
+}
+
 #container
 {
     width: 70%;
