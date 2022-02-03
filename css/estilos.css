@@ -50,5 +50,11 @@ body
 #post
 {
     background-color: white;
+}
+
+#footer
+{
+    background-color: yellow;
+    color:blue;
     padding: 1em;
 }
