@@ -1,13 +1,9 @@
 body
 {
+    background-color: grey;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    color:black;
-=======
     font-family: "Arial";
     color: black;
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -31,6 +27,12 @@ body
     font-weight: normal;
 }
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #container
 {
     width: 70%;
@@ -43,4 +45,10 @@ body
 #container h1
 {
     font: size 20px;;
+}
+
+#post
+{
+    background-color: white;
+    padding: 1em;
 }
