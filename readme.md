@@ -1,4 +1,4 @@
-# HyperBlog :tw-2764:
+# HyperBlog &hearts;
 Un Blog Increible del curso de [Git y Github de Platzi](https://platzi.com/clases/1557-git-github/ "[Git y Github de Platzi")
 
 >Este cruso es lo que estaba necesitando para concoer mas como desarrollar en qeuipo y llevar mis desarrollos de la mejor manera
