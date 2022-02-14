@@ -12,5 +12,6 @@ En este curso vemos:
 * y mas!!!
 * Creado por PatagoniaCode  
 * Incluye ejemplos
+* Disponible para todas edades
 
 Este readme.MD esuna prueba y** no lo tomes en serio**
