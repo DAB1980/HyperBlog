@@ -10,5 +10,6 @@ En este curso vemos:
 * Flujo de Trabajo
 * Integración con GITHUB
 * y mas!!!
+* Creado por PatagoniaCode
 
 Este readme.MD esuna prueba y** no lo tomes en serio**
